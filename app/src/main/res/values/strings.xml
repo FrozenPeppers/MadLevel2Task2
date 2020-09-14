@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MadLevel2Task2</string>
+    <string name="correct">Correct! The answer was: %b</string>
+    <string name="incorrect">Incorrect! The answer was: %b</string>
+    <string name="swipe_left_for_true_swipe_right_for_false">Swipe left for true, swipe right for false.</string>
+    <string name="quiz_instructions">Quiz instructions:</string>
+    <string name="click_on_the_question_for_the_answer">Click on the question for the answer.</string>
+</resources>
